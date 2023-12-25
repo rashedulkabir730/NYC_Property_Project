@@ -2,3 +2,5 @@
 
 
 I obtained a dataset about NYC Property Sales and used python pandas to clean the data. I then utilized Tableau to visualize different aspects of the data such as the total sales prices using a geo map, a line chart showing the trend of average sale prices month-to-month, another lien chart showing the number of commericial units sold vs the number of residential units sold, and a bar chart showing the total number of commericial units vs residential units sold across the 5 boroughs. 
+
+Link to the Visualization: https://public.tableau.com/views/NYCPropertySalesDashboard_17034565725640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
